@@ -1,6 +1,5 @@
 # VR Meeting Room - Oculus Rift S
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Introduction
 
@@ -31,7 +30,7 @@ To experience the VR Meeting Room, follow these steps:
 2. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/vr-meeting-room.git
+   https://github.com/razeek-j/A-VR-Meeting-Room.git
    ```
 
 3. Open the project in Unity3D.
@@ -54,28 +53,17 @@ Once the VR Meeting Room is deployed to your Oculus Rift S headset, follow these
 
 5. To exit the VR Meeting Room, remove your Oculus Rift S headset.
 
-### Assets Attribution
-
-The high-quality assets used in this project are sourced from various royalty-free and licensed asset stores, including:
-
-- [Asset Store Link 1](https://example.com/asset-store-1)
-- [Asset Store Link 2](https://example.com/asset-store-2)
-
-Please check the individual asset stores for licensing and usage terms.
 
 ### Contributing
 
-We welcome contributions from the VR community! If you want to enhance the VR Meeting Room or fix any issues, please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to get involved.
+We welcome contributions from the VR community! If you want to enhance the VR Meeting Room or fix any issues, please contact on moosarazeek@gmail.com for guidelines on how to get involved.
 
 ### License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This project is free.
 
 ### Contact
 
-For any questions or feedback, feel free to reach out to us at vr-meeting-room@example.com.
+For any questions or feedback, feel free to reach out to us at moosarazeek@gmail.com .
 
----
-
-This README provides an overview of the VR Meeting Room project, including its key features, installation instructions, usage guidelines, and information about assets and contributions. Remember to replace "your-username" in the installation section with your GitHub username if you decide to host the project on your GitHub repository.
 
