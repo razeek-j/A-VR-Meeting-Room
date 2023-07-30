@@ -5,6 +5,8 @@
 
 Welcome to the VR Meeting Room designed for the Oculus Rift S! This project aims to create an immersive virtual reality meeting environment that offers a seamless and engaging collaboration experience. With high-quality assets and optimized for the Oculus Rift S headset, participants can have productive meetings in a visually appealing virtual space.
 
+youtube video : https://youtu.be/kMHt0kBfs1w 
+
 ### Key Features
 
 - **Realistic Assets**: The VR Meeting Room boasts high-quality and realistic 3D assets, including furniture, decor, and interactive elements, providing a visually stunning and comfortable meeting environment.
