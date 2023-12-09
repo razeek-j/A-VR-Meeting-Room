@@ -7,6 +7,10 @@ Welcome to the VR Meeting Room designed for the Oculus Rift S! This project aims
 
 youtube video : https://youtu.be/kMHt0kBfs1w 
 
+
+
+![Screenshot 2023-06-23 120606](https://github.com/razeek-j/A-VR-Meeting-Room/assets/72665042/568fcdcb-bb49-4807-bb21-187e428cdd65)
+
 ### Key Features
 
 - **Realistic Assets**: The VR Meeting Room boasts high-quality and realistic 3D assets, including furniture, decor, and interactive elements, providing a visually stunning and comfortable meeting environment.
