@@ -53,11 +53,7 @@ Once the VR Meeting Room is deployed to your Oculus Rift S headset, follow these
 
 2. Use the Oculus Touch controllers to navigate and interact within the VR environment.
 
-3. Invite others to join your meeting by sharing the room's unique meeting code or hosting a multiplayer session.
-
-4. Enjoy face-to-face conversations, collaborate on shared documents or presentations, and make use of interactive elements in the room.
-
-5. To exit the VR Meeting Room, remove your Oculus Rift S headset.
+3. To exit the VR Meeting Room, remove your Oculus Rift S headset.
 
 
 ### Contributing
